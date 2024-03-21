@@ -24,6 +24,8 @@ Developed by:
 RegisterNumber:  
 */
 ```
+![image](https://github.com/logesh1326/Find-the-best-fit-line-using-Least-Squares-Method/assets/153622874/c213f513-fdc7-4c70-8622-1666405b4516)
+
 
 ## Output:
 ![image](https://github.com/logesh1326/Find-the-best-fit-line-using-Least-Squares-Method/assets/153622874/0f8a70b9-d03e-4ccc-a5eb-a05bfbc0c9f0)
