@@ -26,7 +26,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![best fit line](sam.png)
+![image](https://github.com/logesh1326/Find-the-best-fit-line-using-Least-Squares-Method/assets/153622874/0f8a70b9-d03e-4ccc-a5eb-a05bfbc0c9f0)
+
 
 
 ## Result:
